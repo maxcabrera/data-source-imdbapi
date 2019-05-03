@@ -2,7 +2,7 @@
 
 # GrAMPS GraphQL Data Source Base
 
-[![Build Status](https://travis-ci.org/gramps-graphql/data-source-base.svg?branch=master)](https://travis-ci.org/gramps-graphql/data-source-base) [![Maintainability](https://api.codeclimate.com/v1/badges/1858e5dd8acfad0d4540/maintainability)](https://codeclimate.com/github/gramps-graphql/data-source-base/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/1858e5dd8acfad0d4540/test_coverage)](https://codeclimate.com/github/gramps-graphql/data-source-base/test_coverage) [![npm version](https://img.shields.io/npm/v/@gramps/data-source-base.svg?style=flat)](https://www.npmjs.com/package/@gramps/data-source-base) [![Greenkeeper badge](https://badges.greenkeeper.io/gramps-graphql/data-source-base.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/gramps-graphql/data-source-imdbapi.svg?branch=master)](https://travis-ci.org/gramps-graphql/data-source-imdbapi) [![Maintainability](https://api.codeclimate.com/v1/badges/1858e5dd8acfad0d4540/maintainability)](https://codeclimate.com/github/gramps-graphql/data-source-imdbapi/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/1858e5dd8acfad0d4540/test_coverage)](https://codeclimate.com/github/gramps-graphql/data-source-imdbapi/test_coverage) [![npm version](https://img.shields.io/npm/v/@gramps/data-source-imdbapi.svg?style=flat)](https://www.npmjs.com/package/@gramps/data-source-imdbapi) [![Greenkeeper badge](https://badges.greenkeeper.io/gramps-graphql/data-source-imdbapi.svg)](https://greenkeeper.io/)
 
 A boilerplate and minimal example for a [GrAMPS data source](https://gramps.js.org/data-source/data-source-overview/).
 
@@ -12,7 +12,7 @@ Set up a local data source in seconds with:
 
 ```bash
 # 💥 zero dependencies! no global installs! create a new data source
-npx graphql-cli create -b gramps-graphql/data-source-base data-source-mydata
+npx graphql-cli create -b gramps-graphql/data-source-imdbapi data-source-mydata
 
 # 📂 move into the newly-created data source
 cd $_

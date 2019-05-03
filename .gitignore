@@ -8,3 +8,5 @@ dist
 
 # Testing directories
 coverage
+
+.idea

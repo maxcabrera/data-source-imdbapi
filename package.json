@@ -1,12 +1,13 @@
 {
-  "name": "@gramps/data-source-base",
-  "description": "GrAMPS GraphQL Data Source Base",
+  "name": "@gramps/data-source-imdbapi",
+  "description": "GrAMPS GraphQL data source for the IMDB API.",
   "contributors": [
-    "Jason Lengstorf <jason@lengstorf.com>"
+    "Jason Lengstorf <jason@lengstorf.com>",
+    "Max Cabrera <max.cabrera@kw.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gramps-graphql/data-source-base.git"
+    "url": "git@github.com:maxcabrera/data-source-imdbapi.git"
   },
   "main": "dist/index.js",
   "directories": {
