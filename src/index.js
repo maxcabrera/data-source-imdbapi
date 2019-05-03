@@ -8,7 +8,7 @@ import mocks from './mocks';
  * https://gramps.js.org/data-source/data-source-overview/
  */
 export default {
-  namespace: 'IMDBAPI',
+  namespace: 'DataSourceBase',
   context,
   typeDefs,
   resolvers,

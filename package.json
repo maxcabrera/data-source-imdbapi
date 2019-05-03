@@ -33,6 +33,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@gramps/gramps-express": "^0.1.6",
     "casual": "^1.5.19"
   },
   "peerDependencies": {
@@ -69,6 +70,7 @@
       "text",
       "lcov"
     ],
+    "testURL": "http://localhost/",
     "collectCoverageFrom": [
       "src/**/*.js"
     ],
