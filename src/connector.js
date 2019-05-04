@@ -6,7 +6,7 @@ export default class IMDBAPIConnector extends GraphQLConnector {
    * @member {string}
    */
   constructor(props) {
-    super(props)
+    super(props);
     this.apiBaseUri = 'https://www.theimdbapi.org/api';
   }
 }
